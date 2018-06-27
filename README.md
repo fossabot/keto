@@ -17,6 +17,7 @@ a subject (user, application, service, car, ...) is authorized to perform a cert
 <p align="left">
     <a href="https://circleci.com/gh/ory/keto/tree/master"><img src="https://circleci.com/gh/ory/keto/tree/master.svg?style=shield" alt="Build Status"></a>
     <a href="https://coveralls.io/github/ory/keto?branch=master"><img src="https://coveralls.io/repos/ory/keto/badge.svg?branch=master&service=github" alt="Coverage Status"></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fsadysnaat%2Fketo?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsadysnaat%2Fketo.svg?type=shield"/></a>
     <a href="https://goreportcard.com/report/github.com/ory/keto"><img src="https://goreportcard.com/badge/github.com/ory/keto" alt="Go Report Card"></a>
 </p>
 
@@ -181,3 +182,7 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/ory/sponsor/9/website" target="_blank"><img src="https://opencollective.com/ory/sponsor/9/avatar.svg"></a>
 
 A special thanks goes out to **Wayne Robinson** for supporting this ecosystem with $200 every month since Oktober 2016 [on Patreon](https://www.patreon.com/_ory).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsadysnaat%2Fketo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsadysnaat%2Fketo?ref=badge_large)
